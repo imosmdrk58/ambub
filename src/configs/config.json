@@ -1,0 +1,33 @@
+{ 
+   "Bot": {
+    "Token": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "MongoURL": "mongodb+srv://nassybots:44565833@cluster0.k40zu.mongodb.net/ExcellentMain?retryWrites=true&w=majority",
+    "Durum": "M A E S T A 🖤 Wexy",
+    "Status": "By Developer Wexy",
+    "Owners": ["904104903532740648"],
+    "Prefix": ["."]
+  },
+  
+   "Server": {
+    "GuildID": "939107266580332554"
+  },
+
+   "Roles": {
+    "EnAltYetkiliRolü": "944705059139252234"
+  },
+
+  
+   "Channels": {
+    "BotVoice": [
+      "944705220460548096",
+      "944705221454622730",
+      "945760986625888256",
+      "945760986625888257"
+    ]
+  }
+}
